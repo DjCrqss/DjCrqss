@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Declan Cross
+# Hi there! 👋 I'm Declan Cross
 I'm a 20-year-old student studying software engineering at Victoria University of Wellington.
 I'm passionate about building software that can solve real-world problems and make people's lives easier.
 
