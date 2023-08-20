@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Declan Cross
-I'm a 20-year-old student studying software engineering at Victoria University of Wellington.
+I'm a 21-year-old student studying software engineering at Victoria University of Wellington.
 
 ## 📚 Projects
-The pinned projects below is dedicated to showcasing some of the best ones I have worked on since I started coding.
+The pinned projects below are dedicated to showcasing some of the best ones I have worked on since I started coding.
 I like to work on many projects over a range of languages and goals to develop my skills.
-You can find all of my projects and extra work only projects with their descriptions on my website: https://declanx.com!
+You can find all of my projects and extra work-only projects with their descriptions on my website: https://declanx.com!
 
 ## 🔭 I’m currently working on
-- An installable web-app that tracks your grades.
-- That space asteroid game with bubbles so that it matches my [portfolio site.](www.declanx.com)
+- An installable web app that tracks your grades.
+- That space asteroid game with bubbles so that it matches my [portfolio site.](https://www.declanx.com)
 
 ## 📫 How to reach me
 Business email: dj@declanx.com
