@@ -8,7 +8,6 @@ You can find all of my projects and extra work-only projects with their descript
 
 ## 🔭 I’m currently working on
 - An installable web app that tracks your grades.
-- That space asteroid game with bubbles so that it matches my [portfolio site.](https://www.declanx.com)
 
 ## 📫 How to reach me
 Business email: dj@declanx.com
@@ -16,7 +15,11 @@ Regular email: dj3dxx@gmail.com
 LinkedIn: www.linkedin.com/in/djcx
 
 ## 💼 Work Experience
+- ATLNTK Web Designer and Developer (2023+)
+- Tutor for Victoria University - (Part-time  2023+)
 - Atlassian App Developer intern at TechTime (Summer 2022)
+- Tutor for Victoria Unversity - (Part-time 2022)
+- Website redesign and development for ImageEn (2021)
 
 
 
