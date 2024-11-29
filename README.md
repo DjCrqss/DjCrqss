@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Declan Cross
-I'm a 21-year-old student studying software engineering at Victoria University of Wellington.
+I'm a 22-year-old software engineering graduate from Victoria University of Wellington.
 
 ## 📚 Projects
 The pinned projects below are dedicated to showcasing some of the best ones I have worked on since I started coding.
@@ -15,7 +15,8 @@ Regular email: dj3dxx@gmail.com
 LinkedIn: www.linkedin.com/in/djcx
 
 ## 💼 Work Experience
-- ATLNTK Web Designer and Developer (2023+)
+- Xero Software Engineer - (2024+)
+- ATLNTK Web Designer and Developer - (2023+)
 - Tutor for Victoria University - (Part-time  2023+)
 - Atlassian App Developer intern at TechTime (Summer 2022)
 - Tutor for Victoria Unversity - (Part-time 2022)
