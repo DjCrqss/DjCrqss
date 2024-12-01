@@ -7,6 +7,7 @@ I like to work on many projects over a range of languages and goals to develop m
 You can find all of my projects and extra work-only projects with their descriptions on my website: https://declanx.com!
 
 ## 🔭 I’m currently working on
+- Flutter camera app that doesn't apply any post processing.
 - An installable web app that tracks your grades.
 
 ## 📫 How to reach me
